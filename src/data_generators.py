@@ -1,5 +1,6 @@
 from DataFrameIterator import DCMDataFrameIterator
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
+from train_and_val_dataframes import *
 
 SEED = 369
 BATCH_SIZE = 512
@@ -52,3 +53,8 @@ def get_data_generators(train_df, test_df):
                                  **test_consts)
     
     return train_generator, test_generator
+
+train_flair, test_flair = get_data_generators(train_df_flair, test_df_flair)
+train_t1w, test_t1w = get_data_generators(train_df_t1w, test_df_t1w)
+train_t1wce, test_t1wce = get_data_generators(train_df_t1wce, test_df_t1wce)
+train_t2w, test_t2w = get_data_generators(train_df_t2w, test_df_t2w)
