@@ -2,7 +2,8 @@
 
 ### Prediction of the status of a genetic biomarker important for brain cancer treatment.
 
-#### To minimize the number of surgeries and refine the type of therapy required
+## Goal:
+To minimize the number of surgeries and refine the type of therapy required
 
 <br>
 
