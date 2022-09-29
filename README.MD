@@ -2,7 +2,12 @@
 
 ### Prediction of the status of a genetic biomarker important for brain cancer treatment.
 
+#### To minimize the number of surgeries and refine the type of therapy required
+
 <br>
+
+## Motivation
+Currently, genetic analysis of cancer requires surgery to extract a tissue sample. Then it can take several weeks to determine the genetic characterization of the tumor. Depending upon the results and type of initial therapy chosen, a subsequent surgery may be necessary. If an accurate method to predict the genetics of the cancer through imaging (i.e., radiogenomics) alone could be developed, this would potentially minimize the number of surgeries and refine the type of therapy required.
 
 ## Description:
 Data are structured as follows: 
