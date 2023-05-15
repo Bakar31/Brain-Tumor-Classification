@@ -14,13 +14,13 @@ Glioblastoma is a life-threatening condition, and the most common form of brain 
 The specific objectives are as follows:
 
 - Develop a data pipeline to preprocess the MRI scans and extract relevant features for the model.
-- Train and evaluate several deep learning modelspon the preprocessed data.p
+- Train and evaluate several deep learning models on the preprocessed data.
 - Test the final model on a separate test set to evaluate its performance on new data.
 - Discuss the implications of the model for clinical practice and potential future research directions.
 
 
 ## Training sample
-![alt text](/images/project/brain tumor clf/sample.png)
+![alt text]([/images/project/brain tumor clf/sample.png](https://github.com/Bakar31/Brain-Tumor-Classification/blob/master/sample.png))
 
 
 ## My Approch:
