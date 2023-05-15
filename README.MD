@@ -1,6 +1,4 @@
-# Brain Tumor Classification
-
-## Radiogenomics for Glioblastoma Prediction
+# Radiogenomics for Glioblastoma Prediction
 ### Prediction of MGMT Promoter Methylation in Glioblastoma using MRI Scans
 
 ## Overview:
@@ -20,7 +18,7 @@ The specific objectives are as follows:
 
 
 ## Training sample
-![alt text]([/images/project/brain tumor clf/sample.png](https://github.com/Bakar31/Brain-Tumor-Classification/blob/master/sample.png))
+![alt text](/images/project/brain tumor clf/sample.png](https://github.com/Bakar31/Brain-Tumor-Classification/blob/master/sample.png)
 
 
 ## My Approch:
